@@ -15,4 +15,6 @@ pdf파일은 당시 교수님이 주신 과제의 요구 사항이 적힌 문서
 
 calculator_link.c와 calculator_array.c는 각각 Stack_Link2.h와Stack_Array2.h 도 필요합니다.
 
+Stack_Link2.h와Stack_Array2.h는 각각 Stack_Link.h와Stack_Array.h에서 자료형만 int에서 char로 바꾼 것 입니다.
+
 1~4각각의 폴더에는 해당하는 과제의 소스 코드가 있습니다. 헤더파일(.h)는 여러 폴더에 중복으로 들어가 있습니다.
