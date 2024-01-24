@@ -2,7 +2,7 @@
 #### 학기 : 2학년 2학기
 #### 7번째 과제
 #### 과제 설명 : 1. 이진 트리를 어레이와 링크드 리스트 2가지 방법으로 구현 
-#### 2. 1을 이용해서 complete binary tree에 저장 후 
+#### 2. 1을 이용해서 문자열의 문자들을 complete binary tree에 저장 후 
 #### DFS traversal의 preorder, inorder, postorder, BFS traversal로 출력
 #### 사용언어 : C
 
