@@ -1,15 +1,12 @@
 ### 교과목 : 자료구조
 #### 학기 : 2학년 2학기
 #### 8번째 과제
-#### 과제 설명 : 1. 이진 트리를 어레이와 링크드 리스트 2가지 방법으로 구현 
-#### 2. 1을 이용해서 문자열의 문자들을 complete binary tree에 저장 후 
-#### DFS traversal의 preorder, inorder, postorder, BFS traversal로 출력
+#### 과제 설명 : 1. 그래프를 인접매트리스와 인접리스트를 이용해 2가지 버전으로 구현
+#### 2. 1을 이용해서 directed 그래프를 파일로 입력받아 DFS와 BFS 출력
+#### 3. 1의 인접 매트리스에 가중치를 추가해서 구현
+#### 4. 3을 이용해서 undirected 그래프를 입력받아 dijkstra 알고리즘으로 최단 거리 구하기
 #### 사용언어 : C
 
 pdf파일은 당시 교수님이 주신 과제의 요구 사항이 적힌 문서 입니다.
 
-Binary_Tree.c가Binary_Tree.h를,
-
-Binary_Tree.h가Binary_Queue를 include합니다.
-
-Binary_Queue.h는 HW5에서 만든 것을 고쳐서 만들었습니다. BFS를 하는데 쓰입니다.
+1~4은 각각의 과제에서 관련된 파일이 들어가 있습니다.
